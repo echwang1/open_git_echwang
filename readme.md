@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8"/>
-		<title>GIT 수업</title>
+		<title>READ ME</title>
 	</head>
 	<body>
 		<header>
